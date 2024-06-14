@@ -9,3 +9,9 @@ hslr/sun-panel
 fireflyiii/core
 gdy666/lucky
 hectorqin/reader
+diluka/nas-tools:2.9.1
+johngong/qbittorrent:latest
+nyanmisaka/jellyfin:latest
+allanpk716/chinesesubfinder:latest
+linuxserver/jackett:latest
+
