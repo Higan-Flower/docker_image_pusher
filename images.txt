@@ -16,3 +16,5 @@ allanpk716/chinesesubfinder:latest
 linuxserver/jackett:latest
 nextcloud/all-in-one:latest
 vaultwarden/server
+rustdesk/rustdesk-server
+tailscale/tailscale
