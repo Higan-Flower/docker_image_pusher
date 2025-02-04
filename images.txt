@@ -15,3 +15,4 @@ nyanmisaka/jellyfin:latest
 allanpk716/chinesesubfinder:latest
 linuxserver/jackett:latest
 nextcloud/all-in-one:latest
+vaultwarden/server
